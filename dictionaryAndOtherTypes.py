@@ -30,5 +30,5 @@ print(my_dict.keys())
 
 
 print(my_dict.setdefault('random','dream'))
-my_dict.update(('random','new dream'))
+my_dict.update({'random':'new dream'})
 print(my_dict)
