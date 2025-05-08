@@ -8,3 +8,7 @@
 
 **bold text**
 *Italic*
+
+Types
+
+Number(), String(), 
