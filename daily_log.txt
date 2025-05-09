@@ -1,0 +1,5 @@
+this is the file i am going to use for daily log
+date : 08-5-2025
+-> updated name and email.
+-> pushed all files in the local repo to remote.
+date : 09-5-2025
